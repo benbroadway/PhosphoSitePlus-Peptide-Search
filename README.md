@@ -16,9 +16,9 @@ pip install -r requirements.txt
 
 Prepare the input file (e.g. input.csv):
 
-UniProt ID	position	peptide
+UniProt ID |	position |	peptide
 
-HMHA1_HUMAN	1083	REDGDGDE
+HMHA1_HUMAN |	1083 |	REDGDGDE
 
 Run the script:
 
