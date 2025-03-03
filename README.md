@@ -1,18 +1,18 @@
-# PhosphoSitePlus-Peptide-Search
+## PhosphoSitePlus-Peptide-Search
 
 A Python script to search for post-translational modifications in given peptides using the PhosphoSitePlus API. 
 
 Takes an input table containing UniProt IDs and peptides, and returns any associated modifications.
 
 
-Installation
+# Installation
 
 Python, then install the required dependencies:
 
 pip install -r requirements.txt
 
 
-Usage
+# Usage
 
 Prepare the input file (e.g., input.csv):
 
@@ -26,7 +26,7 @@ python PullingPhosphosite.py
 Results saved as phosphosite_results.csv
 
 
-Output Format
+# Output Format
 
 The output CSV file will contain the following columns:
 
